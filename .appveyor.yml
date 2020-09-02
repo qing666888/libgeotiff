@@ -9,7 +9,7 @@ environment:
 # VS 2017
   - VS_VERSION: Visual Studio 15
     APPVEYOR_BUILD_WORKER_IMAGE: Visual Studio 2017
-    platform: x64
+    platform: x86
 
 shallow_clone: true
 
